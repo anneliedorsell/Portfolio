@@ -1,0 +1,29 @@
+.footer {
+    width: 100%;
+    padding: 1rem 0;
+}
+
+.footer-container {
+    max-width: 1140px;
+    margin: auto;
+}
+
+.left {
+    height: 100%;
+    max-width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+
+}
+/* .location {
+    display: flex;
+    margin-bottom: 0.8rem;
+} */
+
+.location, .email, .phone{
+    line-height: 30px;
+
+}
+
+    
