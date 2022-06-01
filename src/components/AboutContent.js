@@ -10,11 +10,11 @@ const AboutContent = () => {
     <div className="MainContent">        
         <div className="RightContent"> 
         <img className="About2" src={AboutTwo} alt="pic" />         
-            <p>Hejsan svejsan</p>           
+            <p>Värdegrundsarbete</p>           
         </div>
         <div className="LeftContent">
         <img className="About1" src={AboutOne} alt="pic" />
-            <p>Hejsan svejsan på dejsan</p>         
+            <p>Växtkraft</p>         
         </div>
     </div>
   );

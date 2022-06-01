@@ -1,6 +1,8 @@
 .footer {
     width: 100%;
     padding: 1rem 0;
+    position: absolute; 
+    left: 0 ; right: 0; bottom: 0;    
 }
 
 .footer-container {
@@ -14,16 +16,10 @@
     display: flex;
     flex-direction: column;
     padding: 1rem;
-
 }
-/* .location {
-    display: flex;
-    margin-bottom: 0.8rem;
-} */
 
 .location, .email, .phone{
     line-height: 30px;
-
 }
 
     
