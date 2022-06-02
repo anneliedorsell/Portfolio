@@ -3,13 +3,13 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Form from "../components/Form";
 
+
 const Contact = () => {
   return (
     <div>
-      <Navbar />
-      <Footer />
-      <Form />
-
+      <Navbar />     
+      <Form />            
+      <Footer />   
     </div>
   );
 };

@@ -1,17 +1,24 @@
+.AboutButton {
+    display: inline-block;
+    width: 100%;
+    height: 10vh;
+    margin: auto;
+}
+
 .MainContent {
     padding: 4rem 1rem;
     width: 100%;
-    height: 100vh;
+    height: 40vh;
     display: flex;
     flex-direction: row;
     align-items: center;
-    position: relative;
+    position: relative;    
 }
 
 .About1, .About2 {
-    width: 90%;
+    width: 50%;
     padding: 1rem;
-    height: 70%;
+    height: 70%;   
 }
 
 .LeftContent {
@@ -24,7 +31,7 @@
 
 .LeftContent p {
     text-align: center;
-    }
+}
 
 .RightContent p {
 text-align: center;
